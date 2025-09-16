@@ -16,3 +16,8 @@ git clone
 
 git remote -u <url/token>
 
+git branch
+
+git checkout <branch>
+
+git switch <branch>
