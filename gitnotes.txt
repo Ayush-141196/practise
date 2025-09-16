@@ -1,0 +1,18 @@
+git init - first step to  initialize the repository
+
+git add -- to add the file or to make the file in staged mode
+
+git commit -m "note"
+
+git status -- to check the status of the file
+
+git restore <file-name>
+
+git push origin master
+
+git pull origin master
+
+git clone
+
+git remote -u <url/token>
+
