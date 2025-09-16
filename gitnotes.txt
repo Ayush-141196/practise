@@ -21,3 +21,6 @@ git branch
 git checkout <branch>
 
 git switch <branch>
+
+git restore --staged <file>
+
